@@ -22,7 +22,7 @@
 
 [21st Apir. 2023] Release the first version of the HSANet
 ![image-20250421](/network/HSANet.png)
-![image-20230415](/network/HSANet.png)
+
 ### Requirement  
 ```bash
 -Pytorch 1.8.0  
@@ -84,9 +84,8 @@ Note: We crop all datasets to a slice of 256×256 before training with it.
           |   |—label
   ```        
  Where A contains images of the first temporal image, B contains images of the second temporal image, and label contains ground truth maps.  
-![image-20230415](/picture/HCGMNet-2.png)
+![image-20230415](/network/HSANet-2.png)
 
-![image-20230415](/picture/HANet-HCGMNet-CGNet.png)
 
 
 ## Acknowledgments
