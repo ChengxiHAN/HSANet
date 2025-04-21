@@ -1,6 +1,6 @@
 # HSANET：https://chengxihan.github.io/
 
-“[HSANET: A HYBRID SELF-CROSS ATTENTION NETWORK FOR REMOTE SENSING CHANGE DETECTION](https://ieeexplore.ieee.org/document/10283341), IGARSS 2025， Oral, Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, Yichu Xu*, :yum::yum::yum:
+“[HSANET: A HYBRID SELF-CROSS ATTENTION NETWORK FOR REMOTE SENSING CHANGE DETECTION](https://ieeexplore.ieee.org/document/10283341), IGARSS 2025, Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, Yichu Xu*, :yum::yum::yum:
 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-googlegz-cd)](https://paperswithcode.com/sota/change-detection-on-googlegz-cd?p=hcgmnet-a-hierarchical-change-guiding-map)
@@ -21,7 +21,7 @@
 
 
 [21st Apir. 2023] Release the first version of the HSANet
-![image-20230415](/picture/HSANet-CD.png)
+![image-20230415](/network/HSANet-CD.png)
 ### Requirement  
 ```bash
 -Pytorch 1.8.0  
