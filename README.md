@@ -49,9 +49,8 @@ CUDA_VISIBLE_DEVICES=0 python test.py  --data_name 'S2Looking' --model_name 'HSA
 ```
 You can change data_name for different datasets like "LEVIR", "WHU", "SYSU", "S2Looking", "CDD", and "DSIFN".
 ## Test our trained model result 
-You can directly test our model by our provided HCGMNet weights in  `output/WHU, LEVIR, SYSU, S2Looking, CDD, and DSIFN `. Download in  [Baidu Disk](https://pan.baidu.com/s/1oZBgohoo0hGstPVU-qC5gw?pwd=2023),pwd:2023 :yum::yum::yum:
+You can directly test our model by our provided HSANet weights in  `output/WHU, LEVIR, SYSU, S2Looking`. Download in  [Baidu Disk](https://pan.baidu.com/s/1bdgk9XgDLaSZGbhPZ53-uA?pwd=2025),pwd:2025 :yum::yum::yum:
 
-And also we provide all test results of our CGNet in the HCGMNetTestResult!!!! Download in HCGMNetTestResult or [Baidu Disk](https://pan.baidu.com/s/1ehrRLAsxgjUMQR4qALSI1g?pwd=2023 ),pwd:2023 :yum::yum::yum:
 ## Dataset Download   
 LEVIR-CD：https://justchenhao.github.io/LEVIR/  , our paper split in [Baidu Disk](https://pan.baidu.com/s/1VVry18KFl2MSWS6_IOlYRA?pwd=2023),pwd:2023 
 
