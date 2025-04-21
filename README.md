@@ -21,7 +21,8 @@
 
 
 [21st Apir. 2023] Release the first version of the HSANet
-![image-20230415](/network/HSANet-CD.png)
+![image-20250421](/network/HSANet.png)
+![image-20230415](/network/HSANet.png)
 ### Requirement  
 ```bash
 -Pytorch 1.8.0  
