@@ -1,6 +1,6 @@
-# HCGMNet-CD：https://chengxihan.github.io/
+![image](https://github.com/user-attachments/assets/da48edf6-e666-4dd6-bb39-bd84a257cd8e)# HSANET：https://chengxihan.github.io/
 
-“[HCGMNET: A HIERARCHICAL CHANGE GUIDING MAP NETWORK FOR CHANGE DETECTION](https://ieeexplore.ieee.org/document/10283341), IGARSS 2023， Oral, Chengxi Han, Chen Wu, Bo Du, :yum::yum::yum:
+“[HSANET: A HYBRID SELF-CROSS ATTENTION NETWORK FOR REMOTE SENSING CHANGE DETECTION](https://ieeexplore.ieee.org/document/10283341), IGARSS 2025， Oral, Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, Yichu Xu*, :yum::yum::yum:
 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-googlegz-cd)](https://paperswithcode.com/sota/change-detection-on-googlegz-cd?p=hcgmnet-a-hierarchical-change-guiding-map)
@@ -20,8 +20,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-cdd-dataset-season-1)](https://paperswithcode.com/sota/change-detection-on-cdd-dataset-season-1?p=hcgmnet-a-hierarchical-change-guiding-map)
 
 
-[2 Sep. 2023] Release the first version of the HCGMNet
-![image-20230415](/picture/HCGMNet.png)
+[21st Apir. 2023] Release the first version of the HSANet
+![image-20230415](/picture/HSANet-CD.png)
 ### Requirement  
 ```bash
 -Pytorch 1.8.0  
@@ -83,7 +83,7 @@ Note: We crop all datasets to a slice of 256×256 before training with it.
 
 ## Acknowledgments
  
-Thanks to all my co-authors [Haonan Guo](https://scholar.google.com/citations?user=HvYxc84AAAAJ&hl=en),[Meiqi Hu](https://meiqihu.github.io/),[Jiepan Li](https://henryjiepanli.github.io/Jiepanli_Henry.github.io/), and [Hongruixuan Chen](https://chrx97.com/). Thanks  for their great work!!  
+Thanks to all my co-authors [Yichu Xu](https://scholar.google.com/citations?user=CxKy4lEAAAAJ&hl=en),[Meiqi Hu](https://meiqihu.github.io/)Thanks  for their great work!!  
 
 
 ## Citation 
@@ -91,15 +91,7 @@ Thanks to all my co-authors [Haonan Guo](https://scholar.google.com/citations?us
  If you use this code for your research, please cite our papers.  
 
 ```
-@ARTICLE{10093022,
-  author={Han, Chengxi and Wu, Chen and Guo, Haonan and Hu, Meiqi and Jiepan Li, and Chen, Hongruixuan},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-17},
-  doi={10.1109/JSTARS.2023.3310208}}
+
 
 ```
 
