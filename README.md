@@ -35,9 +35,16 @@
 ## Training, Test and Visualization Process   
 
 ```bash
-python train.py --epoch 50 --batchsize 8 --gpu_id '1' --data_name 'WHU' --model_name 'HCGMNet'   #HCGMNet
+CUDA_VISIBLE_DEVICES=0 python train.py --epoch 50 --batchsize 8  --data_name 'WHU' --model_name 'HSANet'
+CUDA_VISIBLE_DEVICES=0 python train.py --epoch 50 --batchsize 8  --data_name 'LEVIR' --model_name 'HSANet'
+CUDA_VISIBLE_DEVICES=0 python train.py --epoch 50 --batchsize 8  --data_name 'SYSU' --model_name 'HSANet'
+CUDA_VISIBLE_DEVICES=0 python train.py --epoch 50 --batchsize 8  --data_name 'S2Looking' --model_name 'HSANet'
 
-python test.py --gpu_id '1' --data_name 'WHU' --model_name 'HCGMNet'
+CUDA_VISIBLE_DEVICES=0 python test.py  --data_name 'WHU' --model_name 'HSANet'
+CUDA_VISIBLE_DEVICES=0 python test.py  --data_name 'LEVIR' --model_name 'HSANet'
+CUDA_VISIBLE_DEVICES=0 python test.py  --data_name 'SYSU' --model_name 'HSANet'
+CUDA_VISIBLE_DEVICES=0 python test.py  --data_name 'S2Looking' --model_name 'HSANet'
+
 ```
 You can change data_name for different datasets like "LEVIR", "WHU", "SYSU", "S2Looking", "CDD", and "DSIFN".
 ## Test our trained model result 
