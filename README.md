@@ -89,7 +89,7 @@ Note: We crop all datasets to a slice of 256×256 before training with it.
 
 ## Acknowledgments
  
-Thanks to all my co-authors [Yichu Xu](https://scholar.google.com/citations?user=CxKy4lEAAAAJ&hl=en),[Meiqi Hu](https://meiqihu.github.io/)Thanks  for their great work!!  
+Thanks to all my co-authors [Yichu Xu](https://scholar.google.com/citations?user=CxKy4lEAAAAJ&hl=en),[Meiqi Hu](https://meiqihu.github.io/)Thanks for their great work!!  
 
 
 ## Citation 
