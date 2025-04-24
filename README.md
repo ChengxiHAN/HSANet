@@ -20,7 +20,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hcgmnet-a-hierarchical-change-guiding-map/change-detection-on-cdd-dataset-season-1)](https://paperswithcode.com/sota/change-detection-on-cdd-dataset-season-1?p=hcgmnet-a-hierarchical-change-guiding-map)
 
 
-[21st Apir. 2023] Release the first version of the HSANet
+[21st Apr. 2023] Release the first version of the HSANet
 ![image-20250421](/network/HSANet.png)
 
 ### Requirement  
