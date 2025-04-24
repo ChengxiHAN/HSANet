@@ -97,6 +97,15 @@ Thanks to all my co-authors [Yichu Xu](https://scholar.google.com/citations?user
  If you use this code for your research, please cite our papers.  
 
 ```
+@INPROCEEDINGS{HSANet,
+  author={Han, Chengxi and Su, Xiaoyu and Wei, Zhiqiang and Hu, Meiqi and Xu, Yichu},
+  booktitle={IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  }
 
 
 ```
