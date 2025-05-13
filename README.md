@@ -54,7 +54,7 @@ You can directly test our model by our provided HSANet weights in  `output/WHU, 
 ## Dataset Download   
 LEVIR-CD：https://justchenhao.github.io/LEVIR/  , our paper split in [Baidu Disk](https://pan.baidu.com/s/1VVry18KFl2MSWS6_IOlYRA?pwd=2023),pwd:2023 
 
-WHU-CD：http://gpcv.whu.edu.cn/data/building_dataset.html ,our paper split in [Baidu Disk](https://pan.baidu.com/s/1ZLmIyWvHnwyzhyl4xt-GwQ?pwd=2023),pwd:2023
+WHU-CD：http://gpcv.whu.edu.cn/data/building_dataset.html ,our paper split in [Baidu Disk](https://pan.baidu.com/s/1fQhEoeVBFtSL70ReaOqSqg?pwd=2025),pwd:2025
 
 SYSU-CD: Our split in [Baidu Disk](https://pan.baidu.com/s/1p0QfogZm4BM0dd1a0LTBBw?pwd=2023),pwd:2023
 
